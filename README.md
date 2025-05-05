@@ -88,7 +88,12 @@ Replace text file with database (e.g., SQLite or MySQL)
 
 ## Author
 Aryan Kumar Prajapati
-LinkedIn | GFG | HackerRank | LeetCode 
+
+LinkedIn - www.linkedin.com/in/aryankumar2006 
+LeetCode - https://leetcode.com/u/Aryan_kr08/
+GFG - https://www.geeksforgeeks.org/user/aryan20brsg/
+HackerRank - https://www.hackerrank.com/profile/aryan2006bui
+ 
 
 ## License
 This project is open-source and free to use for educational purposes.
