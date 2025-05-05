@@ -24,9 +24,9 @@ On login or password recovery, the program scans the file line-by-line and match
 ---
 
 ## File Structure
-├── login.cpp # Source code
-├── store.txt # User data file (auto-created)
-└── README.md # Project info
+- ├── login.cpp # Source code
+- ├── store.txt # User data file (auto-created)
+- └── README.md # Project info
   
 ---
 
@@ -48,51 +48,51 @@ g++ login.cpp -o login_app
 ### Registration
 
 -------------------Register-------------------
-Enter your name:
-John
-Enter your password:
-pass123
-Enter your email:
-john@example.com
-Enter your phone number:
-1234567890
-Registration successful!
+- Enter your name:
+- John
+- Enter your password:
+- pass123
+- Enter your email:
+- john@example.com
+- Enter your phone number:
+- 1234567890
+- Registration successful!
 
 ### Login
 
 -------------------Login-------------------
-Enter your name:
-John
-Enter your password:
-pass123
-Login successfully!!
+- Enter your name:
+- John
+- Enter your password:
+- pass123
+- Login successfully!!
 
 ### Forgot Password
 
 -------------------Forgot password-------------------
-Enter your name:
-John
-Enter your email:
-john@example.com
-Your password is: pass123
+- Enter your name:
+- John
+- Enter your email:
+- john@example.com
+- Your password is: pass123
 
 
 ## Future Scope
 
-Add password encryption for security
+- Add password encryption for security
 
-Connect to a web frontend using C++ frameworks like Crow
+- Connect to a web frontend using C++ frameworks like Crow
 
-Replace text file with database (e.g., SQLite or MySQL)
+- Replace text file with database (e.g., SQLite or MySQL)
 
 
 ## Author
 Aryan Kumar Prajapati
 
-LinkedIn - www.linkedin.com/in/aryankumar2006 
-LeetCode - https://leetcode.com/u/Aryan_kr08/
-GFG - https://www.geeksforgeeks.org/user/aryan20brsg/
-HackerRank - https://www.hackerrank.com/profile/aryan2006bui
+- LinkedIn - www.linkedin.com/in/aryankumar2006 
+- LeetCode - https://leetcode.com/u/Aryan_kr08/
+- GFG - https://www.geeksforgeeks.org/user/aryan20brsg/
+- HackerRank - https://www.hackerrank.com/profile/aryan2006bui
  
 
 ## License
